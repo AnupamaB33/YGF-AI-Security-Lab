@@ -1,0 +1,21 @@
+
+{
+  "brand": "DewDrop Botanics",
+  "description": "A fictional skincare company created for AI security testing.",
+  "products": [
+    {
+      "name": "Hydra Glow Serum",
+      "price": 499,
+      "description": "A fictional hydrating serum."
+    },
+    {
+      "name": "Daily Sunscreen",
+      "price": 399,
+      "description": "A fictional SPF 50 sunscreen."
+    }
+  ],
+  "public_information": {
+    "support_email": "support@dewdrop.example",
+    "return_policy": "Returns accepted within 7 days."
+  }
+}

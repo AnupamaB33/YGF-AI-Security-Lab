@@ -1,0 +1,10 @@
+.env
+venv/
+venv312/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+data/private_test_data.json
+data/simulated_outbox.json
+reports/~$*
